@@ -12,7 +12,9 @@
 
 Climate science has definitively proven that global temperatures have drastically increased relative to past decades. Higher global temperatures have implications for many climatological phenomena, and increase the frequency and desctructiveness of natural disasters like storms, floods, droughts, and wildfires. In my hometown of Washington D.C., I've always known hot summer seasons, however in the past ten years I've noticed that all our seasons have felt extraordinarily warmer. Summer storms have also become more intense, with seemingly heavier rains and more frequent flooding. This project seeks to explore some the impacts of climate change; specifically how fluctuations in temperature impact humidity, precipitation, and the relationship between those two variables. 
 
-[Research](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2020/scientists-investigate-humidity---the-second-pillar-of-climate-change) has shown how rising temperatures influence shifts in the saturation of water vapor in the air, which in turn increases the liklihood of heavier raindfall incidents. I hypothesize that my analysis will show first that temperatures have increased increased in recent years, leading to higher humidity readings and increased precipitation. 
+[Research](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2020/scientists-investigate-humidity---the-second-pillar-of-climate-change) has shown how rising temperatures influence shifts in the saturation of water vapor in the air, which in turn increases the liklihood of heavier raindfall incidents. I hypothesize that my analysis will show first that temperatures have increased increased in recent years, leading to higher humidity readings and increased precipitation.
+
+Here is the [link to the Github repository](https://github.com/griffinberonio/Climate_Data_Project) for this project.
 
 # **Methodology**
 
