@@ -1,8 +1,8 @@
-# **Climate Data Project**
+# Climate Data Project
 
 
 ## Table of Contents:
-- [**Climate Data Project**](#climate-data-project)
+- [Climate Data Project](#climate-data-project)
   - [Table of Contents:](#table-of-contents)
   - [Introduction](#introduction)
   - [Methodology](#methodology)
